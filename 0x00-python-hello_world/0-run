@@ -1,3 +1,3 @@
 #!/bin/bash
 PYFILE ="my_python_script.py"
-Python $PYFILE 
+python $PYFILE 
